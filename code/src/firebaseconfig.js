@@ -8,12 +8,7 @@ import {getStorage} from "firebase/storage"
 
 // Your web app's Firebase configuration
 const firebaseConfig = {
-  apiKey: "AIzaSyC_YqjBEHus1Y9Q5ZVESoImwvNLC5smOeA",
-  authDomain: "hackathon-270d4.firebaseapp.com",
-  projectId: "hackathon-270d4",
-  storageBucket: "hackathon-270d4.appspot.com",
-  messagingSenderId: "425379023568",
-  appId: "1:425379023568:web:09a83dec5fa982e6766cd5"
+  {"Enter Your Config!!"}
 };
 
 // Initialize Firebase
