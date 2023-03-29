@@ -1,5 +1,4 @@
 # SpeakUP 
-A Platform that Gives you a Voice 
 
 ## Description
 Introducing SpeakUp, the web platform that provides a safe and supportive environment for people to share their problems and connect with others who can relate to their experiences. SpeakUp is a social media platform that is designed to help individuals speak out about their problems, worries, and concerns in their states and city.
