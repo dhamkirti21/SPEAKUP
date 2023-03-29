@@ -21,14 +21,20 @@ One of the most significant benefits of SpeakUp is that it allows people to spea
 
 ## How to Setup Project 
 
+First Clone the Project using this Command
 <code>git clone https://github.com/dhamkirti21/SPEAKUP-Light-NGO- </code>
 
+Create Firebase Project and Replace Your Config File with it
+<code>firebaseconfig.js</code>
+
+Install All Dependency 
 <code>npm install</code>
 
+Start the Project 
 <code>npm start</code>
 
 
-## Project Screenshot and Videos
+## Project Screenshots and Videos
 
 ![image](https://user-images.githubusercontent.com/78336507/228584150-cfc12c98-0076-464b-bcfa-4be8ff6504fb.png)
 
