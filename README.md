@@ -17,10 +17,6 @@ The platform encourages users to express their thoughts and feelings through tex
 - **Firebase**: Firebase is used for user authentication, real-time database management, and cloud storage for media uploads.
 - **Material UI**: Material UI is a component library for React that provides pre-built UI components with a modern and sleek design.
 
-<p align="left"> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> </p>
-
-
-
 ## How to Setup Project 
 
 First Clone the Project using this Command
